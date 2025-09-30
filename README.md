@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Astro-Syn/Astro-Syn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # Hi, I’m Kelsey 
 
@@ -13,5 +12,5 @@ I’m always excited to collaborate on innovative projects and turn concepts int
 **Let’s connect:** [kelseyamyb@gmail.com](mailto:kelseyamyb@gmail.com)
 
 
-Here are some ideas to get you started:
+
 
