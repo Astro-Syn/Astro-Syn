@@ -7,6 +7,11 @@
 
 Currently working in React and Typescript. 
 
+Check out some of my work
+
+- <Link poppo-mini-mart.vercel.app />
+- <Link space-station-astrosyn.netlify.app//>
+
 **Let’s connect:** [kelseyamyb@gmail.com](mailto:kelseyamyb@gmail.com)
 
 
