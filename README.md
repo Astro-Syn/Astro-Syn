@@ -11,8 +11,8 @@ Currently working with React and TypeScript.
 
 ### Check out some of my work
 
-- [Poppo Mini Mart](https://poppo-mini-mart.vercel.app)
-- [Space Station Astrosyn](https://space-station-astrosyn.netlify.app)
+- [Poppo Mini Mart](https://poppo-mini-mart.vercel.app)  [ Next.js, tailwind, CSS, React ] 
+- [Space Station Astrosyn](https://space-station-astrosyn.netlify.app) [ React, CSS, Typescript ]
 
 ---
 
