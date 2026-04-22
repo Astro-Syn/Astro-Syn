@@ -1,5 +1,5 @@
 
-# Hi, I’m Kelsey 
+# Welcome, here I do mostly React projects
 
 <img src="https://img.shields.io/badge/CSS-Pink?style=for-the-badge&logo=css3&logoColor=white&color=ff3ec9" />
 <img src="https://img.shields.io/badge/React-Purple?style=for-the-badge&logo=react&logoColor=61DAFB&color=bf00ff" />
