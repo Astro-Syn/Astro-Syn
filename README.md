@@ -5,6 +5,7 @@
 Frontend: Javascript, Typescript, React, CSS, Tailwind
 <br>
 BaaS: Supabase, Firebase
+Other: SQL
 <br>
 
 
