@@ -1,9 +1,12 @@
 
 # Welcome. here I do mostly React projects
 
-Tech Stack: 
-BaaS: Supabase, Firebase
+## Tech Stack:
 Frontend: Javascript, Typescript, React, CSS, Tailwind
+<br>
+BaaS: Supabase, Firebase
+<br>
+
 
 ---
 
