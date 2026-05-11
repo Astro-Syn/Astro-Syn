@@ -15,8 +15,9 @@ Currently working with React and TypeScript.
 
 ### Check out some of my work
 
+- [Marine Scanner](https://marine-scanner.netlify.app/) [React, Typescript, CSS, WORMS API]
+- [Space Station Astrosyn](https://space-station-astrosyn.netlify.app) [ React, CSS, Typescript, NASA API ]
 - [Poppo Mini Mart](https://poppo-mini-mart.vercel.app)  [ Next.js, tailwind, CSS, React ] 
-- [Space Station Astrosyn](https://space-station-astrosyn.netlify.app) [ React, CSS, Typescript ]
 - [Grafix](https://grafixboards.netlify.app/login.app) [Supabase, React, Typescript]  
 
 ---
