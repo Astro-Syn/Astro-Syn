@@ -1,5 +1,5 @@
 
-# Welcome. here I do mostly React projects
+# Welcome 
 
 ## Tech Stack:
 Frontend: JavaScript, TypeScript, React, CSS, Tailwind
@@ -7,6 +7,8 @@ Frontend: JavaScript, TypeScript, React, CSS, Tailwind
 Backend / BaaS: Supabase, Firebase
 <br>
 Database: SQL
+<br>
+Currently Learning: Angular, Three.js
 
 
 ---
