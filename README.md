@@ -17,6 +17,7 @@ Currently working with React and TypeScript.
 
 ### Check out some of my work
 
+- [Winows XP](https://windows-xp-astrosyn.netlify.app/) [React, CSS]
 - [Marine Scanner](https://marine-scanner.netlify.app/) [React, Typescript, CSS, WORMS API]
 - [Space Station Astrosyn](https://space-station-astrosyn.netlify.app) [ React, CSS, Typescript, NASA API ]
 - [Matrix Strife Game](matrixstrife.netlify.app/) [Javascript, HTML, CSS] 
